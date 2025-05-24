@@ -6,28 +6,32 @@
 
 ---
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshugupta018/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/himasnhu018)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white)](mailto:himanshukrdev007@gmail.com)
+### 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshugupta018/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/himasnhu018) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:himanshukrdev007@gmail.com)  
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blue?style=flat-square&logo=hacktoberfest&logoColor=white)](https://hacktoberfest.com/)  
+[![Profile Views](https://komarev.com/ghpvc/?username=himasnhu018&style=flat-square&color=blue)](https://github.com/himasnhu018)
 
 ---
 
 ### 🚀 Tech Stack
 
 **Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
+[![Java Streak](https://github-readme-streak-stats.herokuapp.com/?user=himasnhu018&theme=react&date_format=M%20j&hide_border=true&locale=en&custom_title=Java%20Coding%20Streak)](https://github.com/himasnhu018)
 
 **Web Dev & Tools:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -44,7 +48,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himasnhu018&show_icons=true&count_private=true&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himasnhu018&show_icons=true&count_private=true&theme=react)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himasnhu018&layout=compact&theme=react)
 
 ---
