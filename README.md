@@ -71,7 +71,7 @@
 
 - 🥇 **HackHarzads 2025**: Top 60 out of 17,000+ teams  
 - 🥈 **CodeChef STARTERS 187**: Global Rank: **1704**  
-- 🧠 **Cybersecurity** by Google, NPTEL, Microsoft, LinkedIn
+- 🧠 **Cybersecurity** by Google, **Computer Networking** by NPTEL, **Gen-Ai** by Microsoft & LinkedIn Learning
 
 ---
 
